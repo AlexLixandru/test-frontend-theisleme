@@ -1,0 +1,23 @@
+$contentTextColor: #a6afb8;
+
+.container {
+  margin: auto;
+  margin-top: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  width: 60%;
+}
+
+h1 {
+  font-size: 1.2rem;
+  font-weight: 900;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 0.6rem;
+  color: $contentTextColor;
+}
